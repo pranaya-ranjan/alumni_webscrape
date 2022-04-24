@@ -1,0 +1,7 @@
+# pip install -U selenium
+# pip install pandas
+# pip install PyYAML
+# pip install pygsheets
+
+
+# Google Sheet Path : https://docs.google.com/spreadsheets/d/110ZfOH5yFWHhZvKuReQEnTj91oJZG0W9JgYpr2Udr8o/edit#gid=1563303323
